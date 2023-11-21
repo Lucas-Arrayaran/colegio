@@ -5,7 +5,6 @@ a{
 .card{
   justify-content: center;
   display: flex;
-  
   gap: 30px;
   border-radius: 8px;
   overflow: hidden;
@@ -57,3 +56,9 @@ a{
   transform: scale(1);
 }
 
+
+
+
+@media (max-width:600px){
+  
+}
